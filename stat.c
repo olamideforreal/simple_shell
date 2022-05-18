@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  *_stat - this function checks if a function is a bash function or a shell
