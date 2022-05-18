@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  *change_argv - modify the command gave by the user and add /bin/.
